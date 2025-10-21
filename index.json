@@ -6,6 +6,6 @@
     "lang": "en",
     "code": 1,
     "version": "1.0",
-    "nsfw": false
+    "nsfw": "false"
   }
 ]
