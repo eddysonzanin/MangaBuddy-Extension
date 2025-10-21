@@ -4,7 +4,7 @@
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabuddy",
     "apk": "https://cdn.jsdelivr.net/gh/eddysonzanin/MangaBuddy-Extension/MangaBuddyFixed_for_Tachimanga.zip",
     "lang": "en",
-    "code": 1,
+    "code": "1",
     "version": "1.0",
     "nsfw": "false"
   }
