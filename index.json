@@ -1,16 +1,11 @@
-{
-  "name": "Eddyson Extensions",
-  "author": "Eddyson Zanin",
-  "version": 1,
-  "sources": [
-    {
-      "name": "MangaBuddy (English)",
-      "lang": "en",
-      "pkg": "eu.kanade.tachiyomi.extension.en.mangabuddy",
-      "code": 1,
-      "version": "1.0",
-      "nsfw": false,
-      "apk": "https://cdn.jsdelivr.net/gh/eddysonzanin/MangaBuddy-Extension/MangaBuddyFixed_for_Tachimanga.zip"
-    }
-  ]
-}
+[
+  {
+    "name": "MangaBuddy (English)",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangabuddy",
+    "apk": "https://cdn.jsdelivr.net/gh/eddysonzanin/MangaBuddy-Extension/MangaBuddyFixed_for_Tachimanga.zip",
+    "lang": "en",
+    "code": "1",
+    "version": "1.0",
+    "nsfw": "false"
+  }
+]
